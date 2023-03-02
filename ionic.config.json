@@ -1,0 +1,7 @@
+{
+  "name": "aula2-mod",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
